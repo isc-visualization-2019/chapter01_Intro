@@ -1,4 +1,4 @@
-정보문화학 비주얼라이제이션 2019 | ISC Visualization 2019
+정보문화학 비주얼라이제이션 2019
 ===
 
 
@@ -16,12 +16,12 @@
  - 이메일 : woons.2016@gmail.com
  - 면담방법(시간/장소)
    * 매 수업 후 강의실 (수업 전에 이메일 요청)
-   * 주중은 상암동 JTBC (수업 전에 이메일 요청)
+   * 주중은 상암동 JTBC빌딩 (수업 전에 이메일 요청)
 
 수업 관련 정보
 ---
  - 깃허브 : 해당 페이지에 강의 자료 등이 공유됩니다.
- https://github.com/isc-visualization-2019/
+ [https://github.com/isc-visualization-2019](https://github.com/isc-visualization-2019)
  - 슬랙 : 슬랙 메신져를 활용하여 수강생간의 소통이 이루어질 예정입니다.
 
 수업목표
@@ -36,6 +36,7 @@
  - 별도의 주교재 없이 강의자료를 바탕으로 진행합니다. 아래의 참고문헌을 활용합니다.
  - ggplot2 Elegant Graphics for Data Analysis, Hadley Wickham, 2016 (Second Edition)
  - The Grammar of Graphics (Statistics and Computing), Leland Wilkinson, 2005
+ - R Graphics Cookbook, Winston Chang, 2018 (Second Edition)
  - The Truthful Art: Data, Charts, and Maps for Communication, Alberto Cairo, 2016
  - Data Visualisation: A Handbook for Data Driven Design, Andy Kirk, 2016
  - The Wall Street Journal Guide to Information Graphics, Dona M. Wong, 2013
@@ -48,19 +49,18 @@
 
 출석
 ---
- - 결석 3회 이상은 낙제 입니다.
- - 지각 2회 당 결석 1회로 처리합니다.
+ - 수업일수의 1/3을 초과하여 결석하면 성적은 "F" 또는 "U"가 됨(담당교수가 불가피한 결석으로 인정하는 경우는 예외로 할 수 있음)
  - 피치못할 사정이 있는 경우 미리 연락 부탁드립니다.
 
-과제
+과제1(20%)
 ---
  - 매주 [DataCamp](https://www.datacamp.com) Classroom에 등록됩니다. 제출 기한이 있습니다. 
- - 정해놓은 Track에 따라 한 학기 과제를 이수하면 됩니다. 
+ - 매 과제 완료 후에 Certification(PDF) 구글드라이브에 업로드 (추후공지)
 
-기말과제
+과제2(20%)
 ---
- - 주어진 데이터셋을 가지고 직접 시각화 작업물을 제작합니다.
- - 대상 데이터셋과 자세한 사항은 추후 재공지 하겠습니다.
+ - (선택1)본인만의 그래프 리터러시/프로세스 GitBook 퍼블리싱
+ - (선택2)정부/언론에서 왜곡한 그래프 바로잡기
 
 강의계획(주차별)
 ---
@@ -80,5 +80,5 @@
 참고사항
 ---
  - 본 수업은 프로그래밍 강좌 수업이 아닙니다.
- - 수강생 상황에 따라 강의 계획을 탄력적으로 운영할 계획입니다.
+ - 1-2번 외부특강이 예정되어 있습니다.
  - 과제전 프로젝트가 있습니다. 
