@@ -71,10 +71,12 @@
   - Join in Datacamp Classroom
   - R/Rstudio 설치 및 [팀세팅](https://docs.google.com/spreadsheets/d/e/2PACX-1vSpvm-G78bO3WfSpnoHH2y-FerPB1X7v736PD9xviPvl_CuLUrSSkfXghB-068MrsAx7M59yZW29Yqo/pubhtml?gid=23874303&single=true)
   
-### 2주차 : 데이터 알아보기 
-  - 데이터 타입과 구조
+### 2주차 : [데이터 알아보기](https://github.com/isc-visualization-2019/chapter02_190316) 
+  - 비주얼라이제이션 이론
+  - 데이터 타입(numeric, character, factor, date 등)과 구조
   - vector, matrix, dataframe, list 알아보기
   - Data import/export
+  - 과제전 팀미팅
   - (과제 1) : Working with the RStudio IDE(Part1)
 
 
