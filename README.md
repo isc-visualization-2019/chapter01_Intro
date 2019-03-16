@@ -59,9 +59,10 @@
 
 과제II(20%)
 ---
- - (선택1)본인만의 그래프 리터러시/프로세스 GitBook 퍼블리싱
+ - (선택1)본인만의 그래프 리터러시/프로세스 GitBook 퍼블리싱 [example](http://ramnathv.github.io/swc-nw-dataviz/visualize/summarize.html)
  - (선택2)정부/언론에서 왜곡한 그래프 바로잡기
- - (선택3)그래프 분류 시각화
+ - (선택3)그래프 분류 시각화 (ex.[Financial Times Chart Doctor](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary))
+ - (선택4)자유주제
 
 강의계획(주차별)
 ---
@@ -72,10 +73,10 @@
   - R/Rstudio 설치 및 [팀세팅](https://docs.google.com/spreadsheets/d/e/2PACX-1vSpvm-G78bO3WfSpnoHH2y-FerPB1X7v736PD9xviPvl_CuLUrSSkfXghB-068MrsAx7M59yZW29Yqo/pubhtml?gid=23874303&single=true)
   
 ### 2주차 : [데이터 알아보기](https://github.com/isc-visualization-2019/chapter02_190316) 
-  - 비주얼라이제이션 이론
   - 데이터 타입(numeric, character, factor, date 등)과 구조
   - vector, matrix, dataframe, list 알아보기
   - Data import/export
+  - [xmind](https://www.xmind.net/)
   - 과제전 팀미팅
   - (과제 1) : Working with the RStudio IDE(Part1)
 
