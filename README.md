@@ -62,7 +62,7 @@
  - (선택1)본인만의 그래프 리터러시/프로세스 GitBook 퍼블리싱 [example](http://ramnathv.github.io/swc-nw-dataviz/visualize/summarize.html)
  - (선택2)정부/언론에서 왜곡한 그래프 바로잡기
  - (선택3)그래프 분류 시각화 (ex.[Financial Times Chart Doctor](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary))
- - (선택4)자유주제
+ - (선택4)자유주제 (시각화만 포함되면 됩니다)
 
 강의계획(주차별)
 ---
@@ -79,6 +79,7 @@
   - [xmind](https://www.xmind.net/)
   - 과제전 팀미팅
   - (과제 1) : Working with the RStudio IDE(Part1)
+  - (과제 2) : Introduction to R
 
 
 참고사항
