@@ -55,7 +55,7 @@
 과제I(20%)
 ---
  - 매주 [DataCamp](https://www.datacamp.com) Classroom에 등록됩니다. 제출 기한이 있습니다. 
- - 매 과제 완료 후에 Certification(PDF) 구글드라이브에 업로드 (추후공지)
+ - 매 과제 완료 후에 Certification(PDF) 구글드라이브에 업로드
 
 과제II(20%)
 ---
@@ -78,8 +78,16 @@
   - Data import/export
   - [xmind](https://www.xmind.net/)
   - 과제전 팀미팅
-  - (과제 1) : Working with the RStudio IDE(Part1)
-  - (과제 2) : Introduction to R
+  - (과제 2-1) : [Working with the RStudio IDE(Part1)](https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1) 
+  - (과제 2-2) : [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
+
+### 3주차 : [Essential Function & Tidyverse](https://github.com/isc-visualization-2019/chapter03_190323) 
+  - 비주얼라이제이션을 위한 가로형 데이터와 세로형 데이터 개념
+  - FOR, IF 반복문
+  - Data Wrangling in Tidyverse
+  - 과제전 팀미팅
+  - (과제 3-1) : [Importing Data in R(Part1)](https://www.datacamp.com/courses/importing-data-in-r-part-1)
+  - (과제 3-2) : [Intermediate R](https://www.datacamp.com/courses/intermediate-r)
 
 
 참고사항
