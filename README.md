@@ -92,6 +92,7 @@
   - 과제전 팀미팅
   - (과제 2-1) : [Working with the RStudio IDE(Part1)](https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1) 
   - (과제 2-2) : [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
+  - [강의슬라이드](https://docs.google.com/presentation/d/1PBSNUrivGktWj5QepzAOaCL_Ldu6akU53Ip8lLajpug/edit?usp=sharing)
 
 ### 3주차 : [Essential Function](https://github.com/isc-visualization-2019/chapter03_190323) 
   - 비주얼라이제이션을 위한 가로형 데이터와 세로형 데이터 개념(gather & spread)
