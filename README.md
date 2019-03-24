@@ -1,7 +1,6 @@
 정보문화학 비주얼라이제이션 2019
 ===
 
-
 교과목번호
 ---
 - 2114.411
@@ -18,7 +17,7 @@
    * 매 수업 후 강의실 (수업 전에 이메일 요청)
    * 주중은 상암동 JTBC빌딩 (수업 전에 이메일 요청)
 
-수업 관련 정보
+수업진행
 ---
  - 깃허브 : 해당 페이지에 강의 자료 등이 공유됩니다.
  [https://github.com/isc-visualization-2019](https://github.com/isc-visualization-2019)
@@ -52,17 +51,30 @@
  - 수업일수의 1/3을 초과하여 결석하면 성적은 "F" 또는 "U"가 됨(담당교수가 불가피한 결석으로 인정하는 경우는 예외로 할 수 있음)
  - 피치못할 사정이 있는 경우 미리 연락 부탁드립니다.
 
-과제I(20%)
+개인과제(20%)
 ---
- - 매주 [DataCamp](https://www.datacamp.com) Classroom에 등록됩니다. 제출 기한이 있습니다. 
+ - 매주 한 개의 course가 [DataCamp](https://www.datacamp.com) Classroom에 등록됩니다. 제출 기한이 있습니다. 
  - 매 과제 완료 후에 Certification(PDF) 구글드라이브에 업로드
 
-과제II(20%)
+팀과제(20%)
 ---
- - (선택1)본인만의 그래프 리터러시/프로세스 GitBook 퍼블리싱 [example](http://ramnathv.github.io/swc-nw-dataviz/visualize/summarize.html)
- - (선택2)정부/언론에서 왜곡한 그래프 바로잡기
- - (선택3)그래프 분류 시각화 (ex.[Financial Times Chart Doctor](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary))
- - (선택4)자유주제 (시각화만 포함되면 됩니다)
+ - 그래프(차트) 분류 시각화 (ex.[Financial Times Chart Doctor](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary))
+ - 결과물은 print, interactive 상관 없음 (print 결과물 제출시 인쇄비 지원)
+ - 팀과제 수행 기간은 중간고사 직후 시작해서 5월 중순까지 마감할 것
+ - xmind로 기획서 제출
+
+기말 과제전(45%)
+---
+ - 자유주제로 비주얼라이제이션 작품 만들기 (데이터시각화)
+ - 비주얼라이제이션 구현은 자유 : print(Infographics), d3.js, R Graph, Processing 등
+ - 데이터 수집은 정보공개청구, 공공데이터, 크롤링을 바탕으로 진행
+
+기타 참여(5%)
+---
+ - 담당 교수가 제작 예정인 2019년 1학기 강의북 제작 참여시 (수업 아카이빙)
+	 - '한 학기 우리는 어떻게 공부했나?' 코드 및 자료 공유 예정
+ - GitBook으로 퍼블리싱 및 바이라인 함께 공동 명시
+ - 적극적인 수업 참여
 
 강의계획(주차별)
 ---
@@ -72,7 +84,7 @@
   - Join in Datacamp Classroom
   - R/Rstudio 설치 및 [팀세팅](https://docs.google.com/spreadsheets/d/e/2PACX-1vSpvm-G78bO3WfSpnoHH2y-FerPB1X7v736PD9xviPvl_CuLUrSSkfXghB-068MrsAx7M59yZW29Yqo/pubhtml?gid=23874303&single=true)
   
-### 2주차 : [데이터 알아보기](https://github.com/isc-visualization-2019/chapter02_190316) 
+### 2주차 : [비주얼라이제이션을 위한 데이터 알아보기](https://github.com/isc-visualization-2019/chapter02_190316) 
   - 데이터 타입(numeric, character, factor, date 등)과 구조
   - vector, matrix, dataframe, list 알아보기
   - Data import/export
@@ -81,17 +93,21 @@
   - (과제 2-1) : [Working with the RStudio IDE(Part1)](https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1) 
   - (과제 2-2) : [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
 
-### 3주차 : [Essential Function & Tidyverse](https://github.com/isc-visualization-2019/chapter03_190323) 
-  - 비주얼라이제이션을 위한 가로형 데이터와 세로형 데이터 개념
+### 3주차 : [Essential Function](https://github.com/isc-visualization-2019/chapter03_190323) 
+  - 비주얼라이제이션을 위한 가로형 데이터와 세로형 데이터 개념(gather & spread)
   - FOR, IF 반복문
   - Data Wrangling in Tidyverse
   - 과제전 팀미팅
-  - (과제 3-1) : [Importing Data in R(Part1)](https://www.datacamp.com/courses/importing-data-in-r-part-1)
-  - (과제 3-2) : [Intermediate R](https://www.datacamp.com/courses/intermediate-r)
+  - (과제) : [Intermediate R](https://www.datacamp.com/courses/intermediate-r)
 
+### 4주차 : [Tidyverse for Data visualization](https://github.com/isc-visualization-2019/chapter04_190330)
+	- 정부와 언론 속 정크차트란 무엇인가?
+  - `select`, `filter`, `mutate`, `arrange`, `group_by` 등을 활용하여 비주얼라이제이션을 위한 데이터프레임 다루기
+  - 과제전 팀미팅
+  - (과제) : [Data Manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
 
 참고사항
 ---
- - 본 수업은 프로그래밍 강좌 수업이 아닙니다.
- - 1-2번 외부특강이 예정되어 있습니다.
+ - 본 수업은 프로그래밍 강좌 수업이 아닌 올바른 비주얼라이제이션을 위한 데이터시각화 이론과 제작을 배웁니다. 
+ - 1-2회 외부특강이 예정되어 있습니다.
  - 과제전 프로젝트가 있습니다. 
