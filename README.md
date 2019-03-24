@@ -102,7 +102,8 @@
   - (과제) : [Intermediate R](https://www.datacamp.com/courses/intermediate-r)
 
 ### 4주차 : [Tidyverse for Data visualization](https://github.com/isc-visualization-2019/chapter04_190330)
-	- 정부와 언론 속 정크차트란 무엇인가?
+
+  - 정부와 언론 속 정크차트란 무엇인가?
   - `select`, `filter`, `mutate`, `arrange`, `group_by` 등을 활용하여 비주얼라이제이션을 위한 데이터프레임 다루기
   - 과제전 팀미팅
   - (과제) : [Data Manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
