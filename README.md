@@ -77,7 +77,7 @@
  - 담당 교수가 제작 예정인 2019년 1학기 강의북 제작 참여시 (수업 아카이빙)
 	 - '한 학기 우리는 어떻게 공부했나?' 코드 및 자료 공유 예정
  - GitBook으로 퍼블리싱 및 바이라인 함께 공동 명시
- - How Charts Lie[^1]
+ - [Mistakes, we’ve drawn a few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368?fbclid=IwAR2LXxJ_SCs6VH453d2IBoWzjueFbLR8CHKVULc2UahL7kB1tak8uI1KP90)
 
 강의계획(주차별)
 ---
@@ -122,6 +122,3 @@
  - 본 수업은 프로그래밍 강좌 수업이 아닌 올바른 비주얼라이제이션을 위한 데이터시각화 이론과 제작을 배웁니다. 
  - 1-2회 외부특강이 예정되어 있습니다.
  - 과제전 프로젝트가 있습니다. 
-
-
-[^1]: [Mistakes, we’ve drawn a few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368?fbclid=IwAR2LXxJ_SCs6VH453d2IBoWzjueFbLR8CHKVULc2UahL7kB1tak8uI1KP90)
