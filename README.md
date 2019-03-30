@@ -124,4 +124,4 @@
  - 과제전 프로젝트가 있습니다. 
 
 
-[^1]:[Mistakes, we’ve drawn a few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368?fbclid=IwAR2LXxJ_SCs6VH453d2IBoWzjueFbLR8CHKVULc2UahL7kB1tak8uI1KP90)
+[^1]: [Mistakes, we’ve drawn a few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368?fbclid=IwAR2LXxJ_SCs6VH453d2IBoWzjueFbLR8CHKVULc2UahL7kB1tak8uI1KP90)
