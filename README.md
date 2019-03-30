@@ -1,4 +1,4 @@
-정보문화학 비주얼라이제이션 2019
+정보문화학 비주얼라이제이션 2019-1
 ===
 
 교과목번호
@@ -44,7 +44,10 @@
 
 평가방법
 ---
- - 출석 10%, 과제 40%, 기말 프로젝트 45%, 기타 참여 5%
+
+| 구분 | **출석** | **개인과제** | **팀과제** | **기말프로젝트** | **기타참여** |
+|:--|:--|:--|:--|:--|:--|
+| 비율 | 10% | 20% | 20% | 45% | 5% |
 
 출석 (10%)
 ---
@@ -90,8 +93,8 @@
   - Data import/export
   - [xmind](https://www.xmind.net/)
   - 과제전 팀미팅
-  - (과제 2-1) : [Working with the RStudio IDE(Part1)](https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1) 
-  - (과제 2-2) : [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
+  - (과제 01) : [Working with the RStudio IDE(Part1)](https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1) 
+  - (과제 02) : [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
   - [강의슬라이드](https://docs.google.com/presentation/d/1PBSNUrivGktWj5QepzAOaCL_Ldu6akU53Ip8lLajpug/edit?usp=sharing)
 
 ### 3주차 : [Essential Function](https://github.com/isc-visualization-2019/chapter03_190323) 
@@ -99,14 +102,19 @@
   - FOR, IF 반복문
   - Data Wrangling in Tidyverse
   - 과제전 팀미팅
-  - (과제) : [Intermediate R](https://www.datacamp.com/courses/intermediate-r)
+  - (과제 03) : [Intermediate R](https://www.datacamp.com/courses/intermediate-r)
 
 ### 4주차 : [Tidyverse for Data visualization](https://github.com/isc-visualization-2019/chapter04_190330)
-
-  - 정부와 언론 속 정크차트란 무엇인가?
+  - ~~정부와 언론 속 정크차트란 무엇인가?~~ (5주차로 연기)
   - `select`, `filter`, `mutate`, `arrange`, `group_by` 등을 활용하여 비주얼라이제이션을 위한 데이터프레임 다루기
   - 과제전 팀미팅
-  - (과제) : [Data Manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
+  - (과제 04) : [Data Manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
+
+### 5주차 : [Data Visualization-Base](https://github.com/isc-visualization-2019/chapter05_190406)
+  - 정부와 언론 속 정크차트란 무엇인가?
+  - `plot`으로 base graphics 만들어보기
+  - Visual Encoding이란? 차원과 시각적 요소의 관계
+  - (과제 05) : [Data Visualization in R](https://www.datacamp.com/courses/data-visualization-in-r)
 
 참고사항
 ---
