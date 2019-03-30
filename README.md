@@ -77,7 +77,7 @@
  - 담당 교수가 제작 예정인 2019년 1학기 강의북 제작 참여시 (수업 아카이빙)
 	 - '한 학기 우리는 어떻게 공부했나?' 코드 및 자료 공유 예정
  - GitBook으로 퍼블리싱 및 바이라인 함께 공동 명시
- - 적극적인 수업 참여
+ - How Charts Lie[^1] - 실습
 
 강의계획(주차별)
 ---
@@ -108,6 +108,7 @@
   - ~~정부와 언론 속 정크차트란 무엇인가?~~ (5주차로 연기)
   - `select`, `filter`, `mutate`, `arrange`, `group_by` 등을 활용하여 비주얼라이제이션을 위한 데이터프레임 다루기
   - 과제전 팀미팅
+  - How Charts Lie 실습
   - (과제 04) : [Data Manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
 
 ### 5주차 : [Data Visualization-Base](https://github.com/isc-visualization-2019/chapter05_190406)
@@ -121,3 +122,6 @@
  - 본 수업은 프로그래밍 강좌 수업이 아닌 올바른 비주얼라이제이션을 위한 데이터시각화 이론과 제작을 배웁니다. 
  - 1-2회 외부특강이 예정되어 있습니다.
  - 과제전 프로젝트가 있습니다. 
+
+
+[^1]:[Mistakes, we’ve drawn a few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368?fbclid=IwAR2LXxJ_SCs6VH453d2IBoWzjueFbLR8CHKVULc2UahL7kB1tak8uI1KP90)
