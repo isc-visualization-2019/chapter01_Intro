@@ -115,7 +115,12 @@
   - 정부와 언론 속 정크차트란 무엇인가?
   - `plot`으로 base graphics 만들어보기
   - Visual Encoding이란? 차원과 시각적 요소의 관계
-  - (과제 05) : [Data Visualization in R](https://www.datacamp.com/courses/data-visualization-in-r)
+  - 과제전 팀미팅
+  - How Charts Lie 실습
+  - (과제 06) : [Data Visualization in R](https://www.datacamp.com/courses/data-visualization-in-r)
+
+### 6주차 : [중간고사](https://github.com/isc-visualization-2019/chapter06_190413)
+  - 중간고사는 별도의 퀴즈로 대체합니다
 
 참고사항
 ---
