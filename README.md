@@ -122,6 +122,13 @@
 ### 6주차 : [중간고사](https://github.com/isc-visualization-2019/chapter06_190413)
   - 중간고사는 별도의 퀴즈로 대체합니다
 
+### 7주차 : [Aesthetics](https://github.com/isc-visualization-2019/chapter07_190420)
+  - Grammar of Graphics | Aesthetics
+  - Aesthetics를 활용한 시각화 실습
+  - 과제전 팀미팅
+  - How Charts Lie 실습
+  - (과제 07) : [Data Visualization with ggplot2(Part1)](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1)
+
 참고사항
 ---
  - 본 수업은 프로그래밍 강좌 수업이 아닌 올바른 비주얼라이제이션을 위한 데이터시각화 이론과 제작을 배웁니다. 
