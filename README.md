@@ -93,22 +93,22 @@
   - Data import/export
   - [xmind](https://www.xmind.net/)
   - 과제전 팀미팅
-  - (과제 01) : [Working with the RStudio IDE(Part1)](https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1) 
-  - (과제 02) : [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
+  - (과제01) : [Working with the RStudio IDE(Part1)](https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1) 
+  - (과제02) : [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
 
 ### 3주차 : [Essential Function](https://github.com/isc-visualization-2019/chapter03_190323) 
   - 비주얼라이제이션을 위한 가로형 데이터와 세로형 데이터 개념(gather & spread)
   - FOR, IF 반복문
   - Data Wrangling in Tidyverse
   - 과제전 팀미팅
-  - (과제 03) : [Intermediate R](https://www.datacamp.com/courses/intermediate-r)
+  - (과제03) : [Intermediate R](https://www.datacamp.com/courses/intermediate-r)
 
 ### 4주차 : [Tidyverse for Data visualization](https://github.com/isc-visualization-2019/chapter04_190330)
   - ~~정부와 언론 속 정크차트란 무엇인가?~~ (5주차로 연기)
   - `select`, `filter`, `mutate`, `arrange`, `group_by` 등을 활용하여 비주얼라이제이션을 위한 데이터프레임 다루기
   - 과제전 팀미팅
   - How Charts Lie 실습
-  - (과제 04) : [Data Manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
+  - (과제04) : [Data Manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
 
 ### 5주차 : [Grammar of Graphics | Data](https://github.com/isc-visualization-2019/chapter05_190406)
   - 동일한 데이터, 다른 시각화? 시각화 전에 정제의 중요성
@@ -116,7 +116,7 @@
   - Visual Encoding이란? 차원과 시각적 요소의 관계
   - 과제전 팀미팅
   - How Charts Lie 실습
-  - (과제 06) : [Data Visualization in R](https://www.datacamp.com/courses/data-visualization-in-r)
+  - (과제05) : [Data Visualization in R](https://www.datacamp.com/courses/data-visualization-in-r)
 
 ### 6주차 : [중간고사](https://github.com/isc-visualization-2019/chapter06_190413)
   - 중간고사는 별도의 퀴즈로 대체합니다
@@ -126,19 +126,20 @@
   - Aesthetics를 활용한 시각화 실습
   - 과제전 팀미팅
   - How Charts Lie 실습
-  - (과제 07) : [Data Visualization with ggplot2(Part1)](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1)
+  - (과제06) : [Data Visualization with ggplot2(Part1)](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1)
 
 ### 8주차 : [Grammar of Graphics | Geometries](https://github.com/isc-visualization-2019/chapter08_190427)
   - Grammar of Graphics에서 Geometries 알아보기
   - 유형별 Geometries의 특성과 유의점
   - 과제전 팀미팅
   - How Charts Lie 실습
-  - (과제 08) : [Data Visualization with ggplot2(Part2)](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2)
+  - (과제07) : [Data Visualization with ggplot2(Part2)](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2)
 
 ### 9주차 : [Grammar of Graphics | Coordinates & Facet](https://github.com/isc-visualization-2019/chapter09_190504)
   - Grammar of Graphics에서 Coordinates & Facet 알아보기
-  - Coordinates vs. xlim&ylim 그리고 facet의 특성
-  - 특강 : [203인포그래픽연구소](http://infographicslab203.com/) 장성환 대표님
+  - Coordinates 유의점(왜곡) 그리고 Facet의 목적과 올바른 사용법
+  - 팀별 과제전 10분 중간발표(기획서 공유) | 5월 3일 밤10시까지 구글드라이브 업로드
+  - 특강 : [203인포그래픽연구소](http://infographicslab203.com/) 장성환 대표님 (예정)
 
 참고사항
 ---
