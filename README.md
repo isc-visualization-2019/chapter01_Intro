@@ -97,7 +97,7 @@
   - (과제02) : [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
 
 ### 3주차 : [Essential Function](https://github.com/isc-visualization-2019/chapter03_190323) 
-  - 비주얼라이제이션을 위한 가로형 데이터와 세로형 데이터 개념(gather & spread)
+  - 비주얼라이제이션을 위한 Tidy vs. Tame(gather & spread)
   - FOR, IF 반복문
   - Data Wrangling in Tidyverse
   - 과제전 팀미팅
