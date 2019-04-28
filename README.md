@@ -49,30 +49,30 @@
 |:--|:--|:--|:--|:--|:--|
 | 비율 | 10% | 20% | 20% | 45% | 5% |
 
-▪️출석 (10%)
+출석 (10%)
 ---
  - 수업일수의 1/3을 초과하여 결석하면 성적은 "F" 또는 "U"가 됨(담당교수가 불가피한 결석으로 인정하는 경우는 예외로 할 수 있음)
  - 피치못할 사정이 있는 경우 미리 연락 부탁드립니다.
 
-▪️개인과제(20%)
+개인과제(20%)
 ---
  - 매주 한 개의 course가 [DataCamp](https://www.datacamp.com) Classroom에 등록됩니다. 제출 기한이 있습니다. 
  - 매 과제 완료 후에 Certification(PDF) 구글드라이브에 업로드
 
-▪️팀과제(20%)
+팀과제(20%)
 ---
  - 그래프(차트) 분류 시각화 (ex.[Financial Times Chart Doctor](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary))
  - 결과물은 print, interactive 상관 없음 (print 결과물 제출시 인쇄비 지원)
  - 팀과제 수행 기간은 중간고사 직후 시작해서 5월 중순까지 마감할 것
  - xmind로 기획서 제출
 
-▪️기말 과제전(45%)
+기말 과제전(45%)
 ---
  - 자유주제로 비주얼라이제이션 작품 만들기 (데이터시각화)
  - 비주얼라이제이션 구현은 자유 : print(Infographics), d3.js, R Graph, Processing 등
  - 데이터 수집은 정보공개청구, 공공데이터, 크롤링을 바탕으로 진행
 
-▪️기타 참여(5%)
+기타 참여(5%)
 ---
  - 담당 교수가 제작 예정인 2019년 1학기 강의북 제작 참여시 (수업 아카이빙)
 	 - '한 학기 우리는 어떻게 공부했나?' 코드 및 자료 공유 예정
@@ -91,7 +91,7 @@
 | 05 | 2019.04.06(토) | [Grammar of Graphics : Data](https://github.com/isc-visualization-2019/chapter05_190406) | [과제05](https://www.datacamp.com/courses/data-visualization-in-r) |  |
 | 06 | 2019.04.13(토) |[중간고사](https://github.com/isc-visualization-2019/chapter06_190413) | X | 중간고사 |
 | 07 | 2019.04.20(토) | [Grammar of Graphics : Aesthetics](https://github.com/isc-visualization-2019/chapter07_190420) | [과제06](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1) |  |
-| 08 | 2019.04.27(토) | [Grammar of Graphics : Geometries](https://github.com/isc-visualization-2019/chapter08_190427) |  | X |
+| 08 | 2019.04.27(토) | [Grammar of Graphics : Geometries](https://github.com/isc-visualization-2019/chapter08_190427) | X | |
 | 09 | 2019.05.04(토) | 휴강 | X | 휴강 |
 | 10 | 2019.05.11(토) | [Grammar of Graphics : Coordinates & Facet](https://github.com/isc-visualization-2019/chapter09_190504) | [과제07](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2) | 중간발표 및 특강 |
 | 11 | 2019.05.18(토) | Grammar of Graphics : Themes |  |  |
