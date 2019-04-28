@@ -79,7 +79,26 @@
  - GitBook으로 퍼블리싱 및 바이라인 함께 공동 명시
  - [Mistakes, we’ve drawn a few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368?fbclid=IwAR2LXxJ_SCs6VH453d2IBoWzjueFbLR8CHKVULc2UahL7kB1tak8uI1KP90)
 
-강의계획(주차별)
+강의계획(개요)
+---
+
+| 주차 | 날짜 | 강의주제 | 과제 | 비고 |
+|:--|:--|:--|:--|:--|
+| 01 | 2019.03.09(토) | 오리엔테이션 | X |  |
+| 02 | 2019.03.16(토) | [비주얼라이제이션을 위한 데이터 알아보기](https://github.com/isc-visualization-2019/chapter02_190316) | [과제01](https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1), [과제02](https://www.datacamp.com/courses/free-introduction-to-r) |  |
+| 03 | 2019.03.23(토) | [Essential Function](https://github.com/isc-visualization-2019/chapter03_190323) | [과제03](https://www.datacamp.com/courses/intermediate-r) |  |
+| 04 | 2019.03.30(토) | [Tidyverse for Data visualization](https://github.com/isc-visualization-2019/chapter04_190330) | [과제04](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial) |  |
+| 05 | 2019.04.06(토) | [Grammar of Graphics | Data](https://github.com/isc-visualization-2019/chapter05_190406) | [과제05](https://www.datacamp.com/courses/data-visualization-in-r) |  |
+| 06 | 2019.04.13(토) |[중간고사](https://github.com/isc-visualization-2019/chapter06_190413) | X | 중간고사 |
+| 07 | 2019.04.20(토) | [Grammar of Graphics | Aesthetics](https://github.com/isc-visualization-2019/chapter07_190420) | [과제06](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1) |  |
+| 08 | 2019.04.27(토) | [Grammar of Graphics | Geometries](https://github.com/isc-visualization-2019/chapter08_190427) |  | X |
+| 09 | 2019.05.04(토) | 휴강 | X | 휴강 |
+| 10 | 2019.05.11(토) | [Grammar of Graphics | Coordinates & Facet](https://github.com/isc-visualization-2019/chapter09_190504) | [과제07](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2) | 중간발표 및 특강 |
+| 11 | 2019.05.18(토) | Grammar of Graphics | Themes |  |  |
+
+
+
+강의계획(상세)
 ---
 
 ### 1주차 : 오리엔테이션
@@ -133,8 +152,7 @@
   - 유형별 Geometries의 특성과 유의점
   - 과제전 팀미팅
   - How Charts Lie 실습
-  - (과제07) : [Data Visualization with ggplot2(Part2)](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2)
-  - 
+
 ### 9주차 : 휴강
   - 휴강으로 예정되었던 기획서 발표는 10주차(5월11일)로 연기합니다
 
@@ -143,6 +161,7 @@
   - Coordinates 유의점(왜곡) 그리고 Facet의 목적과 올바른 사용법
   - 팀별 과제전 10분 중간발표(기획서 공유) | 5월 10일 밤10시까지 구글드라이브 업로드
   - 특강 : [203인포그래픽연구소](http://infographicslab203.com/) 장성환 대표님 (예정)
+  - (과제07) : [Data Visualization with ggplot2(Part2)](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2)
 
 참고사항
 ---
