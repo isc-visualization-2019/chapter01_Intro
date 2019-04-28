@@ -1,15 +1,15 @@
 정보문화학 비주얼라이제이션 2019-1
 ===
 
-교과목번호
+▪️교과목번호
 ---
 - 2114.411
 
-교과목명
+▪️교과목명
 ---
   - 비주얼라이제이션
 
-담당강사
+▪️담당강사
 ---
  - 성명 : 배여운
  - 이메일 : bae.yeowoon@joongang.co.kr
@@ -17,20 +17,20 @@
    * 매 수업 후 강의실 (수업 전에 이메일 요청)
    * 주중은 상암동 JTBC빌딩 (수업 전에 이메일 요청)
 
-수업진행
+▪️수업진행
 ---
  - 깃허브 : 해당 페이지에 강의 자료 등이 공유됩니다.
  [https://github.com/isc-visualization-2019](https://github.com/isc-visualization-2019)
  - 슬랙 : 슬랙 메신져를 활용하여 수강생간의 소통이 이루어질 예정입니다.
 
-수업목표
+▪️수업목표
 ---
  - 비주얼라이제이션을 위한 시각화 리터러시(Visual Literacy)를 학습한다. 
  - Grammar of Graphics를 바탕으로 올바르고 왜곡없는 차트 제작
  - ggplot2를 활용한 explanatory charts를 구성해본다.
  - 정부와 언론에서 왜곡한 그래프를 알아보고 올바르게 표현해본다. 
 
-교재 및 참고문헌
+▪️교재 및 참고문헌
 ---
  - 별도의 주교재 없이 강의자료를 바탕으로 진행합니다. 아래의 참고문헌을 활용합니다.
  - ggplot2 Elegant Graphics for Data Analysis, Hadley Wickham, 2016 (Second Edition)
@@ -42,44 +42,44 @@
  - [Flowing Data, Nathan Yau](https://flowingdata.com/)
  - [R for Journalists](https://learn.r-journalism.com/en/), Andrew Ba Tran (Washington Post)
 
-평가방법
+▪️평가방법
 ---
 
 | 구분 | **출석** | **개인과제** | **팀과제** | **기말프로젝트** | **기타참여** |
 |:--|:--|:--|:--|:--|:--|
 | 비율 | 10% | 20% | 20% | 45% | 5% |
 
-출석 (10%)
+▪️출석 (10%)
 ---
  - 수업일수의 1/3을 초과하여 결석하면 성적은 "F" 또는 "U"가 됨(담당교수가 불가피한 결석으로 인정하는 경우는 예외로 할 수 있음)
  - 피치못할 사정이 있는 경우 미리 연락 부탁드립니다.
 
-개인과제(20%)
+▪️개인과제(20%)
 ---
  - 매주 한 개의 course가 [DataCamp](https://www.datacamp.com) Classroom에 등록됩니다. 제출 기한이 있습니다. 
  - 매 과제 완료 후에 Certification(PDF) 구글드라이브에 업로드
 
-팀과제(20%)
+▪️팀과제(20%)
 ---
  - 그래프(차트) 분류 시각화 (ex.[Financial Times Chart Doctor](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary))
  - 결과물은 print, interactive 상관 없음 (print 결과물 제출시 인쇄비 지원)
  - 팀과제 수행 기간은 중간고사 직후 시작해서 5월 중순까지 마감할 것
  - xmind로 기획서 제출
 
-기말 과제전(45%)
+▪️기말 과제전(45%)
 ---
  - 자유주제로 비주얼라이제이션 작품 만들기 (데이터시각화)
  - 비주얼라이제이션 구현은 자유 : print(Infographics), d3.js, R Graph, Processing 등
  - 데이터 수집은 정보공개청구, 공공데이터, 크롤링을 바탕으로 진행
 
-기타 참여(5%)
+▪️기타 참여(5%)
 ---
  - 담당 교수가 제작 예정인 2019년 1학기 강의북 제작 참여시 (수업 아카이빙)
 	 - '한 학기 우리는 어떻게 공부했나?' 코드 및 자료 공유 예정
  - GitBook으로 퍼블리싱 및 바이라인 함께 공동 명시
  - [Mistakes, we’ve drawn a few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368?fbclid=IwAR2LXxJ_SCs6VH453d2IBoWzjueFbLR8CHKVULc2UahL7kB1tak8uI1KP90)
 
-강의계획(개요)
+▪️강의계획(개요)
 ---
 
 | 주차 | 날짜 | 강의주제 | 과제 | 비고 |
@@ -96,9 +96,7 @@
 | 10 | 2019.05.11(토) | [Grammar of Graphics : Coordinates & Facet](https://github.com/isc-visualization-2019/chapter09_190504) | [과제07](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2) | 중간발표 및 특강 |
 | 11 | 2019.05.18(토) | Grammar of Graphics : Themes |  |  |
 
-
-
-강의계획(상세)
+▪️강의계획(상세)
 ---
 
 ### 1주차 : 오리엔테이션
@@ -163,7 +161,7 @@
   - 특강 : [203인포그래픽연구소](http://infographicslab203.com/) 장성환 대표님 (예정)
   - (과제07) : [Data Visualization with ggplot2(Part2)](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2)
 
-참고사항
+▪️참고사항
 ---
  - 본 수업은 프로그래밍 강좌 수업이 아닌 올바른 비주얼라이제이션을 위한 데이터시각화 이론과 제작을 배웁니다. 
  - 1-2회 외부특강이 예정되어 있습니다.
