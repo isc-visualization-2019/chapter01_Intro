@@ -9,7 +9,7 @@
 ---
   - 비주얼라이제이션
 
-담당교수
+담당강사
 ---
  - 성명 : 배여운
  - 이메일 : bae.yeowoon@joongang.co.kr
@@ -134,11 +134,14 @@
   - 과제전 팀미팅
   - How Charts Lie 실습
   - (과제07) : [Data Visualization with ggplot2(Part2)](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2)
+  - 
+### 9주차 : 휴강
+  - 휴강으로 예정되었던 기획서 발표는 10주차(5월11일)로 연기합니다
 
-### 9주차 : [Grammar of Graphics | Coordinates & Facet](https://github.com/isc-visualization-2019/chapter09_190504)
+### 10주차 : [Grammar of Graphics | Coordinates & Facet](https://github.com/isc-visualization-2019/chapter09_190504)
   - Grammar of Graphics에서 Coordinates & Facet 알아보기
   - Coordinates 유의점(왜곡) 그리고 Facet의 목적과 올바른 사용법
-  - 팀별 과제전 10분 중간발표(기획서 공유) | 5월 3일 밤10시까지 구글드라이브 업로드
+  - 팀별 과제전 10분 중간발표(기획서 공유) | 5월 10일 밤10시까지 구글드라이브 업로드
   - 특강 : [203인포그래픽연구소](http://infographicslab203.com/) 장성환 대표님 (예정)
 
 참고사항
